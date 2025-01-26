@@ -1,0 +1,69 @@
+epoch num=30
+batch size=64
+AdamW_lr=0.00028
+SGD_lr=0.025
+SGD_momentum=0.4
+steplr_gamma=0.6
+steplr_stepsize=5.0
+coslr_tmax=40
+
+[Epoch:1] loss: 1.531 train-acc:0.44
+[Epoch:1] test-acc: 0.53
+[Epoch:2] loss: 1.179 train-acc:0.58
+[Epoch:2] test-acc: 0.61
+[Epoch:3] loss: 1.005 train-acc:0.65
+[Epoch:3] test-acc: 0.65
+[Epoch:4] loss: 0.873 train-acc:0.70
+[Epoch:4] test-acc: 0.69
+[Epoch:5] loss: 0.774 train-acc:0.73
+[Epoch:5] test-acc: 0.70
+[Epoch:6] loss: 0.654 train-acc:0.78
+[Epoch:6] test-acc: 0.71
+[Epoch:7] loss: 0.603 train-acc:0.79
+[Epoch:7] test-acc: 0.73
+[Epoch:8] loss: 0.553 train-acc:0.81
+[Epoch:8] test-acc: 0.74
+[Epoch:9] loss: 0.505 train-acc:0.83
+[Epoch:9] test-acc: 0.74
+[Epoch:10] loss: 0.459 train-acc:0.85
+[Epoch:10] test-acc: 0.74
+[Epoch:11] loss: 0.384 train-acc:0.87
+[Epoch:11] test-acc: 0.75
+[Epoch:12] loss: 0.354 train-acc:0.89
+[Epoch:12] test-acc: 0.74
+[Epoch:13] loss: 0.323 train-acc:0.90
+[Epoch:13] test-acc: 0.75
+[Epoch:14] loss: 0.295 train-acc:0.91
+[Epoch:14] test-acc: 0.75
+[Epoch:15] loss: 0.266 train-acc:0.92
+[Epoch:15] test-acc: 0.74
+[Epoch:16] loss: 0.221 train-acc:0.94
+[Epoch:16] test-acc: 0.74
+[Epoch:17] loss: 0.203 train-acc:0.94
+[Epoch:17] test-acc: 0.75
+[Epoch:18] loss: 0.186 train-acc:0.95
+[Epoch:18] test-acc: 0.74
+[Epoch:19] loss: 0.171 train-acc:0.96
+[Epoch:19] test-acc: 0.75
+[Epoch:20] loss: 0.155 train-acc:0.96
+[Epoch:20] test-acc: 0.74
+[Epoch:21] loss: 0.131 train-acc:0.97
+[Epoch:21] test-acc: 0.74
+[Epoch:22] loss: 0.121 train-acc:0.97
+[Epoch:22] test-acc: 0.75
+[Epoch:23] loss: 0.112 train-acc:0.98
+[Epoch:23] test-acc: 0.74
+[Epoch:24] loss: 0.104 train-acc:0.98
+[Epoch:24] test-acc: 0.75
+[Epoch:25] loss: 0.096 train-acc:0.98
+[Epoch:25] test-acc: 0.75
+[Epoch:26] loss: 0.083 train-acc:0.99
+[Epoch:26] test-acc: 0.75
+[Epoch:27] loss: 0.078 train-acc:0.99
+[Epoch:27] test-acc: 0.74
+[Epoch:28] loss: 0.074 train-acc:0.99
+[Epoch:28] test-acc: 0.75
+[Epoch:29] loss: 0.069 train-acc:0.99
+[Epoch:29] test-acc: 0.74
+[Epoch:30] loss: 0.065 train-acc:0.99
+[Epoch:30] test-acc: 0.74
